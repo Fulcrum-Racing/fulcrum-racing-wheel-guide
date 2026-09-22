@@ -1,7 +1,6 @@
 # Fulcrum Racing Wheel Guide - Type-Safe Wheelset Reference
 
 <p align="center">
-  <img src="logo.png" width="400" alt="Fulcrum Racing Wheel Guide">
 </p>
 
 Fulcrum Racing Wheel Guide is an at-a-glance information dashboard for wheel families, model references, and structured setup notes. The project combines a type-safe router, a full-stack dashboard, and a schema-driven data workspace in one compact guide.
