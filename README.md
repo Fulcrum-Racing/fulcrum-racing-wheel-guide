@@ -12,9 +12,6 @@ Fulcrum Racing Wheel Guide is an at-a-glance information dashboard for wheel fam
 | Router | [`router/`](router/) | Type-safe navigation, nested layouts, loaders, and model pages |
 | Dashboard | [`dashboard/`](dashboard/) | React interface, server API, reusable tiles, and visual summaries |
 | Data | [`data/`](data/) | Structured models, generated input types, feeds, and access rules |
-
-![Type-Safe Router Preview](router/router-overview.png)
-
 ## Guide Features
 
 - Explore Fulcrum wheels through a client-first navigation example.
